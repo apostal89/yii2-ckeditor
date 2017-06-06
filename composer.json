@@ -1,5 +1,5 @@
 {
-    "name": "loveorigami/yii2-ckeditor",
+    "name": "apostal89/yii2-ckeditor",
     "keywords": ["yii", "wysiwyg", "editor", "CKEditor"],
     "description": "Yii2 CKEditor a fork of mihaildev/yii2-ckeditor with bower packages",
     "homepage": "https://github.com/devgroup-ru/yii2-ckeditor",
@@ -14,9 +14,9 @@
             "role": "Developer"
         },
         {
-            "name": "Andrey Lukyanov",
-            "email": "loveorigami@mail.ru",
-            "homepage": "https://github.com/loveorigami/"
+            "name": "Pavel",
+            "email": "raskrutka89@mail.ru",
+            "homepage": "https://github.com/apostal89/"
         }
     ],
     "autoload": {
